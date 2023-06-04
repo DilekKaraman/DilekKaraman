@@ -3,7 +3,7 @@
 
 - dilekkocakkaraman@gmail.com 
 - dilekkocak85hotmail.com
-- linkedin.com/in/dilek-koçak-karaman-sdet
+
 
 <!---
 DilekKaraman/DilekKaraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

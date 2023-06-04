@@ -1,5 +1,5 @@
 ## Dilek Karaman
-### Software QA Engineer || SDET || Industrial Engineer
+### Software QA Engineer || Industrial Engineer
 
 - dilekkocakkaraman@gmail.com 
 - dilekkocak85@hotmail.com
